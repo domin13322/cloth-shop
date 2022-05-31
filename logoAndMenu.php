@@ -1,5 +1,5 @@
         <div id="logo">
-        <a href="index.php">Jedwabiem i kaszmirem</a>
+        <a href="index.php">Shop Name</a>
        </div>
        <div class="sideMenu">
             <div class="sideMenuItem" id="loginIcon"><a href="#loginFormDiv" id="loginLink" onclick="annimateLogin()"><i class="icon-user"></i> Zaloguj się</a></div>
